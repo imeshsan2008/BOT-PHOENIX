@@ -35,7 +35,7 @@
 
   </a>
   <a href="https://github.com/imeshsan2008/devil-nexus">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Sahas%20Tech&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=ImeshSan2008&color=purple&style=plastic">
 
   </a>
   </p>
