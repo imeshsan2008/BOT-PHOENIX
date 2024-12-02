@@ -1,0 +1,8 @@
+{
+    "PREFIX": ".",
+    "unsplashEnabled": true,
+    "imgEnabled": true,
+    "fbEnabled": true,
+    "ALLOW_GROUP_MESSAGES": true,
+    "ALLOW_PRIVATE_MESSAGES": true
+}

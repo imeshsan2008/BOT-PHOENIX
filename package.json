@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
@@ -16,6 +16,7 @@
     "axios": "^1.7.7",
     "body-parser": "^1.20.3",
     "cheerio": "^1.0.0",
+    "child_process": "^1.0.2",
     "dotenv": "^16.4.5",
     "ejs": "^3.1.10",
     "express": "^4.21.1",
@@ -23,8 +24,6 @@
     "he": "^1.2.0",
     "jimp": "^0.16.13",
     "link-preview-js": "^3.0.12",
-    "mongodb": "^6.10.0",
-    "mongoose": "^8.8.1",
     "node-fetch": "^2.7.0",
     "path": "^0.12.7",
     "punycode": "^2.3.1",
